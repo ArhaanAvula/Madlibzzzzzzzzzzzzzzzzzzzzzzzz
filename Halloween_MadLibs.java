@@ -6,7 +6,7 @@ public class Halloween_MadLibs {
         String[] words = InputCollector.collectWords();
 
         // Get the story template
-        String template = StoryTemplate.temeplate;
+        String template = StoryTemplate.template;
 
         // Generate the completed story
         String story = StoryGenerator.generateStory(template, words);
