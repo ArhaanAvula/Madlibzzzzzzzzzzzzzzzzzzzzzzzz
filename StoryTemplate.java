@@ -1,4 +1,4 @@
-public class HalloweenStoryTemplate {
+public class StoryTemplate {
   
     // Placeholder is %s
     public static String template = "On a dark and %s night, I decided to explore the creepy %s down the street. "
