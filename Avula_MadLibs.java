@@ -1,4 +1,4 @@
-public class Halloween_MadLibs {
+public class Avula_MadLibs {
 
     public static void main(String[] args) {
 
